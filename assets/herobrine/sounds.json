@@ -1,92 +1,92 @@
 {
   "ambiant.ambiance": {
-    "sounds": ["ambient/ambiance"]
+    "sounds": ["herobrine:ambient/ambiance"]
   },
   "ambiant.ether": {
-    "sounds": ["ambient/ether"]
+    "sounds": ["herobrine:ambient/ether"]
   },
   "ambiant.sight": {
-    "sounds": ["ambient/sight"]
+    "sounds": ["herobrine:ambient/sight"]
   },
   "ambiant.wind": {
-    "sounds": ["ambient/wind"]
+    "sounds": ["herobrine:ambient/wind"]
   },
   "human.breath": {
-    "sounds": ["human/breath"]
+    "sounds": ["herobrine:human/breath"]
   },
   "human.heart": {
-    "sounds": ["human/heart"]
+    "sounds": ["herobrine:human/heart"]
   },
   "human.rire": {
-    "sounds": ["human/rire"]
+    "sounds": ["herobrine:human/rire"]
   },
   "human.scream": {
-    "sounds": ["human/scream"]
+    "sounds": ["herobrine:human/scream"]
   },
   "human.souffle": {
-    "sounds": ["human/souffle"]
+    "sounds": ["herobrine:human/souffle"]
   },
   "creature.mange": {
-    "sounds": ["creature/mange"]
+    "sounds": ["herobrine:creature/mange"]
   },
   "creature.moan": {
-    "sounds": ["creature/moan"]
+    "sounds": ["herobrine:creature/moan"]
   },
   "creature.monster": {
-    "sounds": ["creature/monster"]
+    "sounds": ["herobrine:creature/monster"]
   },
   "other.bells": {
-    "sounds": ["other/bells"]
+    "sounds": ["herobrine:other/bells"]
   },
   "other.energy": {
-    "sounds": ["other/energy"]
+    "sounds": ["herobrine:other/energy"]
   },
   "other.hocy": {
-    "sounds": ["other/hocy"]
+    "sounds": ["herobrine:other/hocy"]
   },
   "other.gataca": {
-    "sounds": ["other/gataca"]
+    "sounds": ["herobrine:other/gataca"]
   },
   "pnj.chant": {
-    "sounds": ["pnj/chant"]
+    "sounds": ["herobrine:pnj/chant"]
   },
   "pnj.laugh": {
-    "sounds": ["pnj/laugh"]
+    "sounds": ["herobrine:pnj/laugh"]
   },
   "pnj.priere": {
-    "sounds": ["pnj/priere"]
+    "sounds": ["herobrine:pnj/priere"]
   },
   "pnj.chasse": {
-    "sounds": ["pnj/chasse"]
+    "sounds": ["herobrine:pnj/chasse"]
   },
   "pnj.gravity": {
-    "sounds": ["pnj/gravity"]
+    "sounds": ["herobrine:pnj/gravity"]
   },
   "pnj.moonlight": {
-    "sounds": ["pnj/moon"]
+    "sounds": ["herobrine:pnj/moon"]
   },
   "pnj.priro": {
-    "sounds": ["pnj/chant_priro"]
+    "sounds": ["herobrine:pnj/chant_priro"]
   },
   "pnj.sonde": {
-    "sounds": ["pnj/sonde"]
+    "sounds": ["herobrine:pnj/sonde"]
   },
   "pnj.oblivion": {
-    "sounds": ["pnj/oblivion"]
+    "sounds": ["herobrine:pnj/oblivion"]
   },
   "whisper.queveuxtu": {
-    "sounds": ["whisper/queveuxtu"]
+    "sounds": ["herobrine:whisper/queveuxtu"]
   },
   "whisper.rejoinsnous": {
-    "sounds": ["whisper/rejoinsnous"]
+    "sounds": ["herobrine:whisper/rejoinsnous"]
   },
   "whisper.toto": {
-    "sounds": ["whisper/toto"]
+    "sounds": ["herobrine:whisper/toto"]
   },
   "whisper.whisp": {
-    "sounds": ["whisper/whisp"]
+    "sounds": ["herobrine:whisper/whisp"]
   },
   "other.magsyn": {
-    "sounds": ["other/magsyn"]
+    "sounds": ["herobrine:other/magsyn"]
   }
 }
