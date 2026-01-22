@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 55,
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 80
+    },
+    "description": [
+      {"text":"♫ ", "color": "white"},
+      {"text": "Soundpack", "color":"#D394E0"}
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "ambiant.ambiance": {
+    "sounds": ["ambient/ambiance"]
+  },
+  "ambiant.ether": {
+    "sounds": ["ambient/ether"]
+  },
+  "ambiant.sight": {
+    "sounds": ["ambient/sight"]
+  },
+  "ambiant.wind": {
+    "sounds": ["ambient/wind"]
+  },
+  "human.breath": {
+    "sounds": ["human/breath"]
+  },
+  "human.heart": {
+    "sounds": ["human/heart"]
+  },
+  "human.rire": {
+    "sounds": ["human/rire"]
+  },
+  "human.scream": {
+    "sounds": ["human/scream"]
+  },
+  "human.souffle": {
+    "sounds": ["human/souffle"]
+  },
+  "creature.mange": {
+    "sounds": ["creature/mange"]
+  },
+  "creature.moan": {
+    "sounds": ["creature/moan"]
+  },
+  "creature.monster": {
+    "sounds": ["creature/monster"]
+  },
+  "other.bells": {
+    "sounds": ["other/bells"]
+  },
+  "other.energy": {
+    "sounds": ["other/energy"]
+  },
+  "other.hocy": {
+    "sounds": ["other/hocy"]
+  },
+  "other.gataca": {
+    "sounds": ["other/gataca"]
+  },
+  "pnj.chant": {
+    "sounds": ["pnj/chant"]
+  },
+  "pnj.laugh": {
+    "sounds": ["pnj/laugh"]
+  },
+  "pnj.priere": {
+    "sounds": ["pnj/priere"]
+  },
+  "pnj.chasse": {
+    "sounds": ["pnj/chasse"]
+  },
+  "pnj.gravity": {
+    "sounds": ["pnj/gravity"]
+  },
+  "pnj.moonlight": {
+    "sounds": ["pnj/moon"]
+  },
+  "pnj.priro": {
+    "sounds": ["pnj/chant_priro"]
+  },
+  "pnj.sonde": {
+    "sounds": ["pnj/sonde"]
+  },
+  "pnj.oblivion": {
+    "sounds": ["pnj/oblivion"]
+  },
+  "whisper.queveuxtu": {
+    "sounds": ["whisper/queveuxtu"]
+  },
+  "whisper.rejoinsnous": {
+    "sounds": ["whisper/rejoinsnous"]
+  },
+  "whisper.toto": {
+    "sounds": ["whisper/toto"]
+  },
+  "whisper.whisp": {
+    "sounds": ["whisper/whisp"]
+  },
+  "other.magsyn": {
+    "sounds": ["other/magsyn"]
+  }
+}
